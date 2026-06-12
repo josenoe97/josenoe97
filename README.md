@@ -1,13 +1,9 @@
 <h1>Olá! Eu sou o José Edson 👋</h1>
 
 <a href="https://www.linkedin.com/in/jose-edson-jr97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/juniornoe97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:edsonjunior9701@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 <br/>
-
-> Desenvolvedor .NET com 2 anos de experiência em sistemas corporativos e jurídicos de médio porte.
-> Atuando com .NET/C#, ASP.NET MVC, APIs REST, SQL Server e Oracle.
 
 ---
 
