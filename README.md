@@ -13,8 +13,12 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=josenoe97&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenoe97&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=josenoe97&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenoe97&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/></td>
+  </tr>
+</table>
 
 ---
 
